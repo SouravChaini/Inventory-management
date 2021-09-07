@@ -1,0 +1,1 @@
+{"1001": {"pname": "Chocolate", "pprice": 20, "pquantity": 250}, "1002": {"pname": "Biscuits", "pprice": 120, "pquantity": 100}, "1003": {"pname": "Skin-care", "pprice": 40, "pquantity": 200}, "1004": {"pname": "Cereals", "pprice": 90, "pquantity": 900}, "1005": {"pname": "Drinks", "pprice": 70, "pquantity": 100}, "1006": {"pname": "Shirts", "pprice": 260, "pquantity": 1000}}
